@@ -19,6 +19,3 @@ python projects/chatbot/bot.py
 
 The Run command script above is the best screenshot. 
 
-## *Author Name*
-
-[wj-Mcat](https://github.com/wj-Mcat), 吴京京, NLP Researcher, Chatbot Lover
